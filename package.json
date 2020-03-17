@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/Christopher96/yourstorage-simple/issues"
   },
-  "homepage": "https://github.com/Christopher96/yourstorage-simple#readme"
+  "homepage": "https://github.com/Christopher96/yourstorage-simple#readme",
+  "dependencies": {}
 }
