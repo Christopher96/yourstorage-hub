@@ -6,7 +6,6 @@ const server = require('net').createServer(function (socket) {
     socket.on('data', function (data) {
         console.log(data.toString());
     });
-    socket.write("hello client");
 })
 
 server.listen(port, function (err) {
